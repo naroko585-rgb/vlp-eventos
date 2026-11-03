@@ -2,10 +2,12 @@
   "id": "prueba-1",
   "nombre": "Evento de prueba",
   "descripcion": "Primer evento de VLP",
-  "revision": 1,
+  "revision": 2,
   "minecraft": "1.21.1",
   "loader": "fabric",
   "servidor": "",
   "baseUrl": "https://raw.githubusercontent.com/naroko585-rgb/vlp-eventos/main/eventos/prueba-1/archivos",
-  "externos": []
+  "externos": [
+    { "ruta": "mods/fabric-api.jar", "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1" }
+  ]
 }

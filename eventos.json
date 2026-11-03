@@ -1,0 +1,8 @@
+{
+  "eventos": [
+    {
+      "id": "prueba-1",
+      "manifiesto": "https://raw.githubusercontent.com/USER/REPO/main/eventos/prueba-1/manifiesto.json"
+    }
+  ]
+}

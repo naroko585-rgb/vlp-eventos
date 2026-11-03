@@ -1,0 +1,10 @@
+{
+  "id": "prueba-1",
+  "nombre": "Evento de prueba",
+  "descripcion": "Primer evento de VLP",
+  "revision": 1,
+  "minecraft": "1.21.1",
+  "loader": "fabric",
+  "servidor": "",
+  "archivos": []
+}

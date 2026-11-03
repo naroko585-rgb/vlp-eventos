@@ -1,0 +1,11 @@
+{
+  "id": "prueba-1",
+  "nombre": "Evento de prueba",
+  "descripcion": "Primer evento de VLP",
+  "revision": 1,
+  "minecraft": "1.21.1",
+  "loader": "fabric",
+  "servidor": "",
+  "baseUrl": "https://raw.githubusercontent.com/naroko585-rgb/vlp-eventos/main/eventos/prueba-1/archivos",
+  "externos": []
+}
